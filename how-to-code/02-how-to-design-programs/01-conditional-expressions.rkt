@@ -39,4 +39,3 @@
         [(= (image-height img) (image-width img)) "square"]
         [else "wide"]))
 
-
