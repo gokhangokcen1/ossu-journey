@@ -17,8 +17,8 @@
 - [ ] Software Architecture
 
 # Core math
-- [ ] Calculus 1A: Differentiation
-- [ ] Calculus 1B: Integration
+- [X] Calculus 1A: Differentiation `learnt in college`
+- [X] Calculus 1B: Integration `learnt in college`
 - [ ] Calculus 1C: Coordinate Systems & Infinite Series
 - [ ] Mathematics for Computer Science
 
