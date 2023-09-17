@@ -1,13 +1,13 @@
-# ossu-journey
-
-I am a sophomore electrical and electronics engineering student. Apart from my college courses, I want to improve myself in computer science and that's why I started OSSU. 
+# Open Source Society University (OSSU) Journey
+### I started this journey in `August 2023`
+### I am a sophomore electrical and electronics engineering student. Apart from my college courses, I want to improve myself in computer science and that's why I started OSSU. 
 
 # Intro CS
 - [ ] I learn C at my college. So, I have some programming basic knowledge. I skipped `Python for everybody`
 - [x] I completed `Introduction to Computer Science and Programming using Python` in Agust 2023
 
 # Core CS
-- [ ] How to Code - Simple Data
+- [ ] How to Code - Simple Data `September 2023` HTC: simple & complex data -> [notes](https://github.com/gokhangokcen1/ossu-journey/tree/master/how-to-code) 
 - [ ] How to Code - Complex Data
 - [ ] Programming Languages, Part A
 - [ ] Programming Languages, Part B
