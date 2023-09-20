@@ -1,3 +1,0 @@
-# Fonksiyon tasarımı yapmak
-
-
