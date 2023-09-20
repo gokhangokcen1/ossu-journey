@@ -1,6 +1,6 @@
 # Open Source Society University (OSSU) Journey
 ### I started this journey in `August 2023`
-### I am a sophomore electrical and electronics engineering student. Apart from my college courses, I want to improve myself in computer science and that's why I started OSSU. 
+### I am an electrical and electronics engineering student. Apart from my college courses, I want to improve myself in computer science and that's why I started OSSU. 
 
 # Intro CS
 - [x] I learn C at my college. So, I have some programming basic knowledge. I skipped `Python for everybody`
