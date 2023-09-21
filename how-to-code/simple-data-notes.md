@@ -481,4 +481,3 @@ World program design is divided into two phases, each of which has sub-parts:
              (... ws x y)]))
     ```
     
-    # Data Driven Templates
