@@ -3,7 +3,7 @@
 ### I am an electrical and electronics engineering student. Apart from my college courses, I want to improve myself in computer science and that's why I started OSSU. 
 
 # Intro CS
-- [x] I learn C at my college. So, I have some programming basic knowledge. I skipped `Python for everybody`
+- [x] I learnt C and Matlab at my college. So, I know some programming basic knowledge. I skipped `Python for everybody`
 - [x] I completed `Introduction to Computer Science and Programming using Python` in Agust 2023
 
 # Core CS
